@@ -1,3 +1,5 @@
-# Develop some decentralized small tools
-#Love decentralization
-#Not for profit
+**About:**
+
+👩‍💻 Develop some open-source decentralized tools
+🍿 Love decentralization
+🧙 Not for profit
